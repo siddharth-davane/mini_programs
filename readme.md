@@ -13,3 +13,5 @@ A simple program which accepts a integer in rag=nge of 0-127 and prints the equi
 
 ### multiFileCompiling
 Small sample which demonstrates compiling more than 1 file. A function is used from another file in this example.
+### boxDrawing.c 
+A c program which draws all unicode box drawing characters to the terminal. Good for checking if they work on the current terminal.
